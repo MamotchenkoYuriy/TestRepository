@@ -1,0 +1,6 @@
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3\bin\Debug\HW_3.exe.config
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3\bin\Debug\HW_3.exe
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3\bin\Debug\HW_3.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3\obj\Debug\HW_3.exe
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3\obj\Debug\HW_3.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3\obj\Debug\HW_3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLibraryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LibraryItem xsi:type="Book" Id="41667" Name="1" Year="1" Author="1" />
+  <LibraryItem xsi:type="Book" Id="11926" Name="1" Year="1" Author="1" />
+  <LibraryItem xsi:type="Book" Id="87206" Name="1" Year="1" Author="1" />
+</ArrayOfLibraryItem>

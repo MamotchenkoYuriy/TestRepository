@@ -1,0 +1,12 @@
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3_1\bin\Debug\HW_3.exe.config
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3_1\bin\Debug\HW_3.exe
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3_1\bin\Debug\HW_3.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3_1\obj\Debug\HW_3.exe
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3_1\obj\Debug\HW_3.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX Solution\HW_3\HW_3_1\obj\Debug\HW_3_1.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Desktop\HW_3_1-d63ab31437f993ef3a683de165d0eeca20e851da\bin\Debug\HW_3.exe.config
+C:\Users\Yuriy\Desktop\HW_3_1-d63ab31437f993ef3a683de165d0eeca20e851da\obj\Debug\HW_3.exe
+C:\Users\Yuriy\Desktop\HW_3_1-d63ab31437f993ef3a683de165d0eeca20e851da\obj\Debug\HW_3.pdb
+C:\Users\Yuriy\Desktop\HW_3_1-d63ab31437f993ef3a683de165d0eeca20e851da\bin\Debug\HW_3.exe
+C:\Users\Yuriy\Desktop\HW_3_1-d63ab31437f993ef3a683de165d0eeca20e851da\bin\Debug\HW_3.pdb
+C:\Users\Yuriy\Desktop\HW_3_1-d63ab31437f993ef3a683de165d0eeca20e851da\obj\Debug\HW_3_1.csprojResolveAssemblyReference.cache
